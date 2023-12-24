@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================
 
 * 🌍  I'm based in Barcelona (Spain)
-* 🖥️  See my portfolio at [Cibersecurity personal Vault](http://st3g4n05.github.io/)
+* 🖥️  See my portfolio at [Cibersecurity personal Vault](http://st3g4n05.github.io/) (currently reworking on it)
 * 🧠  I'm learning computer engineering with mention on Cibersecurity at UOC university
 
 ### Skills
