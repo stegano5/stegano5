@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Barcelona (Spain)
 * 🖥️  See my portfolio at [Cibersecurity personal Vault](http://stegano5.github.io/) (currently reworking on it)
 * 🧠  I'm learning computer engineering with mention on Cibersecurity at UOC university
+* 🛡️  Cybersecurity Incident Response (DFIR) · Computer Engineer with mention on IT/Cibersecurity
 
 ### Skills
 
