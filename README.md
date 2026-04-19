@@ -10,7 +10,7 @@
 
 <p align="left">
 🌍 I'm based in Barcelona (Spain) <br>
-💻 See my portfolio at <a href="https://stegano5.github.io" target="_blank">Ciberscurity personal Vault (currently reworking on it)</a> <br>
+💻 See my portfolio at <a href="https://stegano5.github.io" target="_blank">Ciberscurity personal Vault <a/> (currently reworking on it) <br>
 🛡️ Cybersecurity Incident Response (DFIR) · Computer Engineer with mention on IT/Cibersecurity<br>
 <!--Intro end-->
   </p>
