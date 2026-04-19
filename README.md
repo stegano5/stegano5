@@ -57,6 +57,17 @@
 <!--- trophy (start) -->
 
 ### Badges
+<a href="https://www.credly.com/badges/4f8a2fc9-89c7-49cb-a6b6-99cb990acd71/public_url" target="_blank">
+  <img src="https://images.credly.com/size/110x110/images/276d8595-f4e0-457b-adc8-aab85ee221bf/blob" alt="Credly Badge" width="110">
+</a>
+
+<a href="https://www.credly.com/badges/7cbfcb1f-e6ea-499c-9d9b-baaf600e5e32/public_url" target="_blank">
+  <img src="https://images.credly.com/size/110x110/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="Credly Badge" width="110">
+</a>
+
+<a href="https://www.credly.com/badges/4900e3ac-99d6-49a2-9abe-8c5239efbe86/public_url" target="_blank">
+  <img src="https://images.credly.com/size/110x110/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Credly Badge" width="110">
+</a>
 
 <b>My GitHub Stats</b>
 
